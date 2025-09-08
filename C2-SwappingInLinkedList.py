@@ -77,4 +77,4 @@ n2.next = n3
 l.display()
 print(end="\n")
 l.swap(10, 30)
-l.display
+l.display()
