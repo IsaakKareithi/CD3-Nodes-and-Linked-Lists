@@ -8,6 +8,7 @@ y = [[3, 8],
 answer = [[0, 0],
           [0, 0]]
 
+#iterate through rows of x 
 for i in range(len(x)):
     for j in range(len(x[0])):
         answer[i][j] = x[i][j] + y[i][j]
