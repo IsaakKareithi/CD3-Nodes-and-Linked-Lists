@@ -10,6 +10,6 @@ for i in range(len(x)):
         #Column-wise sum of items
         answer = answer + x[j][i]
 
-#print the column sum
-print(answer, end=" ")
-answer = 0
+    #print the column sum
+    print(answer, end=" ")
+    answer = 0
