@@ -1,13 +1,13 @@
 #initialize matrix
 
-x = [[11,9],
-     [2,4]]
+x = [[11, 9],
+     [2, 4]]
 
-y = [[7,5],
-     [1,5]]
+y = [[7, 5],
+     [1, 5]]
 
-answer = [[0,0],
-          [0,0]]
+answer = [[0, 0],
+          [0, 0]]
 
 #traverse array 
 for i in range(len(x)):
